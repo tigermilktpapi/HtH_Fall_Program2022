@@ -3,10 +3,10 @@
 
 # Questions:
 # 1: Which streaming platform has the most shows?
-# 2: Does the movie year determine which streaming platform it would likely be in?
-# 3: Who has the most shows for kids?
-# 4: Who has the most shows for teens?
-# 5: Who has the most shows for adults?
+# 2: What is the average tv show year (year the tv show was produced) for each streaming platform?
+# 3: Which streaming platform caters more for kids age 7+?
+# 4: Who had the most shows for teens ages 13-16+?
+# 5: Which streaming platform has the most adult tv shows 18+?
 # 6: Which platform has the oldest shows?
 # 7: Who has the worst tv shows?
 # 8: Which platform has the best IMDB rating shows?
