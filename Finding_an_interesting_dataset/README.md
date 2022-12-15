@@ -5,7 +5,7 @@
 # 2: When would be the best time for a producer to release content? (Months with the least amount of content added)
 # 3: Which audience does Netflix have the most shows for? 
 # 4: What is the general duration of a movie on Netflix?
-# 5: Depending on the country, what genre of movie/show do they produce the most?
+# 5: What is the genre distribution for the content on Netflix?
 # 6: Are there any correlations between a country's produced content and its ratings?
 # 7: Does an actor/actress prefer working more with a particular producer?
 # 8: How does Netflix content compare over the years?
