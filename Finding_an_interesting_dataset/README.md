@@ -3,7 +3,7 @@
 # Questions:
 # 1: Does Netflix have more shows or movies?
 # 2: When would be the best time for a producer to release content? (Months with the least amount of content added)
-# 3: Which audience does Netflix have the most shows for? 
+# 3: Which audience does Netflix have the most content for? 
 # 4: What is the general duration of a movie on Netflix?
 # 5: What is the genre distribution for the content on Netflix?
 # 6: Are there any correlations between a country's produced content and its ratings?
